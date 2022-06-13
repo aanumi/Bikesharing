@@ -55,4 +55,5 @@ From the analysis conducted, the demographic shows a large male population, as w
 Two additional visualizations are:
 
 • An analysis of the weather/precipitation in the target city to evaluate how the weather will affect demand.
+
 • Analysis incorporating price per bike rental into visualizations to see how bike rental demand directly translates to profit.
