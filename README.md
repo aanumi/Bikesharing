@@ -17,6 +17,7 @@ This chart reflects the breakdown by gender of the users in the bike sharing pro
 
 ### Top starting locations
 This is a visual of the hottest spots for rentals, with the dark blue circles showing heavy bike rentals, and light blue areas showing low bike rentals.
+
 <img width="914" alt="Top starting locations" src="https://user-images.githubusercontent.com/100884241/173270253-fa423f53-5e1e-48ac-a6d2-fd4e5df5768c.png">
 
 
@@ -53,5 +54,5 @@ From the analysis conducted, the demographic shows a large male population, as w
 ## Additional Visualizations
 Two additional visualizations are:
 
-	•	An analysis of the weather/precipitation in the target city to evaluate how the weather will affect demand.
-	•	Analysis incorporating price per bike rental into visualizations to see how bike rental demand directly translates to profit.
+• An analysis of the weather/precipitation in the target city to evaluate how the weather will affect demand.
+• Analysis incorporating price per bike rental into visualizations to see how bike rental demand directly translates to profit.
